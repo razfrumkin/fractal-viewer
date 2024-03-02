@@ -7,8 +7,8 @@ A fractal exploration tool powered by SFML and GLSL for GPU acceleration, offeri
 ## Features
 
 * Real Time Pan and Zoom:
-  * (WASD) to pan around.
-  * <kbd>↑</kbd> and <kbd>↓</kbd> to zoom in and out respectively.
+  * Use WASD to pan around.
+  * Use <kbd>↑</kbd> and <kbd>↓</kbd> to zoom in and out respectively.
 * Color Adjustment - Choose from 3 modes:
   * Grayscale - Renders the fractal from black to white.
   * Mix - Renders the fractal with a blend of two colors.
