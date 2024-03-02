@@ -8,13 +8,13 @@ set(SOURCE_FILES
     src/UIManager.cpp
     src/Fractal.cpp
 
-    src/ImGui/imgui_demo.cpp
-    src/ImGui/imgui_draw.cpp
-    src/ImGui/imgui_tables.cpp
-    src/ImGui/imgui_widgets.cpp
-    src/ImGui/imgui.cpp
+    include/ImGui/imgui_demo.cpp
+    include/ImGui/imgui_draw.cpp
+    include/ImGui/imgui_tables.cpp
+    include/ImGui/imgui_widgets.cpp
+    include/ImGui/imgui.cpp
 
-    src/ImGui/imgui-SFML.cpp
+    include/ImGui/imgui-SFML.cpp
 )
 
 add_executable(main ${SOURCE_FILES})
