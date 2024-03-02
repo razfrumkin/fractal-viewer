@@ -1,6 +1,6 @@
 # fractal-viewer
 
-A fractal exploration tool powered by SFML and GLSL for GPU acceleration, offering real-time rendering, zooming, panning, and color adjustment capabilities to ensure seamless performance. Additionally, it utilizes ImGui for intuitive user interactions, all implemented in C++.
+A fractal exploration tool powered by [SFML](https://www.sfml-dev.org) and GLSL for GPU acceleration, offering real-time rendering, zooming, panning, and color adjustment capabilities to ensure seamless performance. Additionally, it utilizes [ImGui](https://github.com/ocornut/imgui) for intuitive user interactions, all implemented in C++.
 
 ![](screenshots/Program.png)
 
