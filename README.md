@@ -21,8 +21,6 @@ A fractal exploration tool powered by SFML and GLSL for GPU acceleration, offeri
     <img src="screenshots/Fractal1.png" width=300>
     <img src="screenshots/Fractal2.png" width=300>
     <img src="screenshots/Fractal3.png" width=300>
-</p>
-<p>
     <img src="screenshots/Fractal4.png" width=300>
     <img src="screenshots/Fractal5.png" width=300>
     <img src="screenshots/Fractal6.png" width=300>
